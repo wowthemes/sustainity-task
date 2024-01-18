@@ -3,7 +3,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   ssr: false,
   app: {
-    baseURL: '/sustainity-assessment/',
+    baseURL: '/sustainity-task/',
     head: {
       script: []
     },
